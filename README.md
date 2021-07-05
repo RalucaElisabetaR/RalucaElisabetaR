@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Raluca </h1>
-<h3 align="center">I'm a hands-on team player, innovative, task-driven photographer, web developer and graphic designer passionate about creating and maintaining flawless and modern user interfaces while implementing the latest technologies and best design practices.</h3>
+<h1 align="center">Raluca Elisabeta Rusu </h1>
+<h3 align="center">Hands-on team player, innovative, task-driven photographer, web developer and graphic designer passionate about creating and maintaining flawless and modern user interfaces while implementing the latest technologies and best design practices.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://github.com/RalucaElisabetaR](https://github.com/RalucaElisabetaR)
+- 👨‍💻 Some projects: [https://github.com/RalucaElisabetaR](https://github.com/RalucaElisabetaR)
 
-- 📫 You can reach me at:  **raluca.elisabeta.rusu@gmail.com**
+- 📫 Contact:  **raluca.elisabeta.rusu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elisabetarusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisabetarusu" height="30" width="40" /></a>
 </p>
