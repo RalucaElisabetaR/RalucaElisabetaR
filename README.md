@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raluca Elisabeta Rusu</h1>
+<h1 align="center">Hi 👋, I'm Raluca</h1>
 <h3 align="center">I am hands-on team player, innovative, task-driven photographer, web developer and graphic designer passionate about creating and maintaining flawless and modern user interfaces while implementing the latest technologies and best design practices.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://github.com/RalucaElisabetaR](https://github.com/RalucaElisabetaR)
