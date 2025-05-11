@@ -1,8 +1,8 @@
-Drupal Theme & Module Developer | 
-Wordpress & Shopify Developer | 
-Webmaster | Frontend Libraries | 
-Web & Graphic Designer | 
-Can-Do Mindset
+Drupal Theme & Module Developer |   
+Wordpress & Shopify Developer |   
+Webmaster | Frontend Libraries |   
+Web & Graphic Designer |   
+Can-Do Mindset    
 - 📫 Contact:  **raluca@elisabetarusu.com**
 - 🌐 Website:   <a href="https://elisabetarusu.com" target="blank"><img align="center" />https://elisabetarusu.com</a>
 
